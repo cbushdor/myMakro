@@ -2,7 +2,7 @@
 
 This file is a LibreOffice file CalcTest2.ods.
 
-Double click on it and i should be launched. 
+Double click on it and, it should be launched. 
 
 Set your LibreOffice to launch macro.
 
