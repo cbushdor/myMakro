@@ -8,7 +8,7 @@ Set your LibreOffice to launch macro.
 
 
 # Introduction
-Fill theses columns with date the cost name + its value (actif or Passif).
+Fill these columns with date, cost name and, its associated values (actif or Passif).
 
 Press the button and, calculus will be made for you [^1].
 
