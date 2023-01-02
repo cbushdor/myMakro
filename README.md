@@ -1,6 +1,6 @@
 # Simple readme file
 
-This file is a LibreOffice[[^1]] file CalcTest2.ods.
+This file is a LibreOffice [^1] file CalcTest2.ods [^2].
 
 Double click on it and, it should be launched. 
 
@@ -17,9 +17,10 @@ Press the button and, calculus will be made for you [^1].
 | 202301P1 | Puchase 1 | 10 | |
 | 202301P1 | Puchase 2 |  | 2|
 
-
-'![This is the alt tag](./Screenshot_2023-01-02_at_03.07.02.png)
-'![This is the alt tag](./Screenshot_2023-01-02_at_03.07.38.png)
+<!--
+![This is the alt tag](./Screenshot_2023-01-02_at_03.07.02.png)
+![This is the alt tag](./Screenshot_2023-01-02_at_03.07.38.png)
+-->
 
 
 # Improve macro
@@ -38,3 +39,4 @@ End Sub
 ```
 
 [^1]: Version 7.4.2.3
+[^2]: [Manual](https://help.libreoffice.org/7.4/en-US/text/sbasic/shared/vbasupport.html?&DbPAR=SHARED&System=MAC) for writing VBA scripts
