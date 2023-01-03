@@ -14,8 +14,8 @@ Press the button and, calculus will be made for you.
 
 | Date | Label | Actif | Passif |
 | ----------- | ----------- | ----------- | ----------- |
-| 202301P1 | Label 1 | 10 | |
-| 202301P1 | Label 2 |  | 2|
+| 202301P1 | Label 1 | 10 | _ |
+| 202301P1 | Label 2 | _ | 2|
 
 # How to fill column(s)
 * Date : Type date [^3] (format not specified yet)
