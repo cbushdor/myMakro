@@ -28,7 +28,7 @@ Press the button and, calculus will be made for you.
 
 * Values: Can be a number (Real/Float) or _ [^4]  are both accepted
 
-* Now values format are checked. An error is raised if format is not ok!
+* Now value formats are checked (for A, P). An error is raised if format is not ok!
 
 Watchout to the GOLDEN RULE:
 
