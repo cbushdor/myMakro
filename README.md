@@ -28,11 +28,13 @@ Press the button and, calculus will be made for you.
 
 * Values: Can be a number (Real/Float) or _ [^4]  are both accepted
 
-Watchout:
+Watchout to the GOLDEN RULE:
 
 > A vs P  if Actif as a value Passif MUST NOT (_ or 0) it sis one or the other.
 
 > P vs A  if Passif as a value Actif MUST NOT (_ or 0) it sis one or the other.
+
+> These rules are not implemented yet.
 
 | Date | Label | Actif | Passif |
 | ----------- | ----------- | ----------- | ----------- |
