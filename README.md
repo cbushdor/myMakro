@@ -63,7 +63,7 @@ Sub Calc()
 	MaSomme("Sheet1","Sommes","Total")
 End Sub
 ```
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/lyE_5vgkkng)
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/OXy5oTGC4Uk)
 
 [^1]: Version 7.4.2.3
 [^2]: [Manual](https://help.libreoffice.org/7.4/en-US/text/sbasic/shared/vbasupport.html?&DbPAR=SHARED&System=MAC) for writing VBA scripts
