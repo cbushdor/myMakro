@@ -12,10 +12,34 @@ Fill these columns with date, cost name and, its associated values (actif or Pas
 
 Press the button and, calculus will be made for you.
 
-| Date | Intitulé | Actif | Passif |
+| Date | Label | Actif | Passif |
 | ----------- | ----------- | ----------- | ----------- |
-| 202301P1 | Puchase 1 | 10 | |
-| 202301P1 | Puchase 2 |  | 2|
+| 202301P1 | Label 1 | 10 | |
+| 202301P1 | Label 2 |  | 2|
+
+# How to feel column
+* Date : Type date [^3] (format not specified yet)
+
+* Label : String 
+
+* Actif ( A ): Have a values
+
+* Passif ( P ): Have a values
+
+* Values: Can be a number (Real/Float) or _ [^4]  are both accepted
+
+Watchout:
+
+> A vs P  if Actif as a value Passif MUST NOT (_ or 0) it sis one or the other.
+
+> P vs A  if Passif as a value Actif MUST NOT (_ or 0) it sis one or the other.
+
+| Date | Label | Actif | Passif |
+| ----------- | ----------- | ----------- | ----------- |
+| 202301P1 | Label 1 | 10 | _ |
+| 202301P1 | Label 2 | _  | 2|
+| 202301P1 | Label 3 | 9.1  | _ |
+
 
 <!--
 ![This is the alt tag](./Screenshot_2023-01-02_at_03.07.02.png)
@@ -41,3 +65,6 @@ End Sub
 
 [^1]: Version 7.4.2.3
 [^2]: [Manual](https://help.libreoffice.org/7.4/en-US/text/sbasic/shared/vbasupport.html?&DbPAR=SHARED&System=MAC) for writing VBA scripts
+[^3]: Format not specified yet
+[^4]: _ [^5] is like 0 value
+[^5]: _ must be alone
