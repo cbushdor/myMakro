@@ -28,6 +28,8 @@ Press the button and, calculus will be made for you.
 
 * Values: Can be a number (Real/Float) or _ [^4]  are both accepted
 
+* Now values format are checked. An error is raised if format is not ok!
+
 Watchout to the GOLDEN RULE:
 
 > A vs P  if Actif as a value Passif MUST NOT (_ or 0) it sis one or the other.
@@ -65,8 +67,9 @@ End Sub
 ```
 [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/OXy5oTGC4Uk)
 
-[^1]: Version 7.4.2.3
+[^1]: Version 7.4.2.3 check for latest news [^6]
 [^2]: [Manual](https://help.libreoffice.org/7.4/en-US/text/sbasic/shared/vbasupport.html?&DbPAR=SHARED&System=MAC) for writing VBA scripts
 [^3]: Format not specified yet
 [^4]: _ [^5] is like 0 value
 [^5]: _ must be alone
+[^6]: Latest [news](https://wiki.documentfoundation.org/Main_Page) for OO and VBA!
