@@ -17,7 +17,7 @@ Press the button and, calculus will be made for you.
 | 202301P1 | Label 1 | 10 | |
 | 202301P1 | Label 2 |  | 2|
 
-# How to feel column
+# How to fill column(s)
 * Date : Type date [^3] (format not specified yet)
 
 * Label : String 
