@@ -1,8 +1,10 @@
-# Simple readme file
+# Simple README.md file
 
-This file is a LibreOffice [^1] file CalcTest2.ods [^2].
+## FOREPLAY
 
-Double click on this and, it should be launched. Before if not so, do the following:@@:w
+This project was created with LibreOffice [^1]. A spreadsheet file CalcTest2.ods [^2] was created.
+
+Double click on this and, it should be launched. Before if not so, do the following:
 
 ```
 git clone https://github.com/cbushdor/myMakro.git
