@@ -36,9 +36,7 @@ Press the button and, calculus will be made for you.
 Watchout to the GOLDEN RULE:
 
 > A vs P  if Asset has a value Passive MUST NOT (_ or 0)! It is one or the other (check the upper line, or examples just below).
-
 > P vs A  if Passive has a value Asset MUST NOT (_ or 0)! It is one or the other (check the upper line, or examples just below).
-
 > These rules are not implemented yet.
 
 | Date | Label | Asset | Passive |
