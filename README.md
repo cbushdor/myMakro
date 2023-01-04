@@ -14,23 +14,18 @@ Set your LibreOffice to launch macro.
 
 
 # Introduction
-Fill these columns with date, labels and, their associated values (Actif/Asset or Passif/Passive).
+Fill these columns with date, labels and, their associated values (Asset or Passive).
 
 Press the button and, calculus will be made for you.
-
-| Date | Label | Actif | Passif |
-| ----------- | ----------- | ----------- | ----------- |
-| 202301P1 | Label 1 | 10 | _ |
-| 202301P1 | Label 2 | _ | 2|
 
 # How to fill column(s)
 * Date : Type date [^3] (format not specified yet)
 
 * Label : String 
 
-* Actif ( A ): Have a value
+* Asset ( A ): Have a value
 
-* Passif ( P ): Have a value
+* Passive ( P ): Have a value
 
 * Value: Can be a number (Real/Float) or _ [^4]
 
@@ -38,13 +33,13 @@ Press the button and, calculus will be made for you.
 
 Watchout to the GOLDEN RULE:
 
-> A vs P  if Actif has a value Passif MUST NOT (_ or 0)! It is one or the other (check the upper line, or examples just below).
+> A vs P  if Asset has a value Passive MUST NOT (_ or 0)! It is one or the other (check the upper line, or examples just below).
 
-> P vs A  if Passif has a value Actif MUST NOT (_ or 0)! It is one or the other (check the upper line, or examples just below).
+> P vs A  if Passive has a value Asset MUST NOT (_ or 0)! It is one or the other (check the upper line, or examples just below).
 
 > These rules are not implemented yet.
 
-| Date | Label | Actif | Passif |
+| Date | Label | Asset | Passive |
 | ----------- | ----------- | ----------- | ----------- |
 | 202301P1 | Label 1 | 10 | _ |
 | 202301P1 | Label 2 | _  | 2|
