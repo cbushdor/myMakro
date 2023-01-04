@@ -4,13 +4,15 @@
 
 This project was created with LibreOffice [^1]. A spreadsheet file CalcTest2.ods [^2] was created.
 
-Double click on this and, it should be launched. Before if not so, do the following:
+Double click on this and, it should be launched. Before, go in a safe place in your directory structure and ;-), proceed the next if not done before:
 
 ```
 git clone https://github.com/cbushdor/myMakro.git
 ```
 
-Set your LibreOffice to launch macro.
+Double click on CalcTest2.ods but before go in the directory that contains this file and CalcTest2.ods.
+
+Set your spreadsheet to launch macro if not already set! Et voìlà!
 
 
 # Introduction
