@@ -43,9 +43,9 @@ Watchout to the GOLDEN RULE:
 
 | Date | Label | Asset | Passive |
 | ----------- | ----------- | ----------- | ----------- |
-| 202301P1 | Label 1 | 10 | _ |
-| 202301P1 | Label 2 | _  | 2|
-| 202301P1 | Label 3 | 9.1  | _ |
+| 20230101 | Label 1 | 10 | _ |
+| 20230101 | Label 2 | _  | 2|
+| 20230101 | Label 3 | 9.1  | _ |
 
 
 <!--
