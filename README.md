@@ -14,7 +14,7 @@ Set your LibreOffice to launch macro.
 
 
 # Introduction
-Fill these columns with date, cost name and, its associated values (actif or Passif).
+Fill these columns with date, labels and, their associated values (Actif/Asset or Passif/Passive).
 
 Press the button and, calculus will be made for you.
 
