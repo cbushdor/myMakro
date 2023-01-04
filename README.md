@@ -61,9 +61,9 @@ Select Module and choose Calc()
 
 ```
 Sub Calc()
-	MaSomme("Sheet1","Actif","Reçu")
-	MaSomme("Sheet1","Passif","Dépensé")
-	MaSomme("Sheet1","Sommes","Total")
+	MaSomme("Sheet1","Asset","Asset sum")
+	MaSomme("Sheet1","Passive","Passive sum")
+	MaSomme("Sheet1","My sum","Sums")
 End Sub
 ```
 [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/C4200ZAJuM0)
