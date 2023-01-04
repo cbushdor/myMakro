@@ -2,7 +2,11 @@
 
 This file is a LibreOffice [^1] file CalcTest2.ods [^2].
 
-Double click on it and, it should be launched. 
+Double click on this and, it should be launched. Before if not so, do the following:@@:w
+
+```
+git clone https://github.com/cbushdor/myMakro.git
+```
 
 Set your LibreOffice to launch macro.
 
@@ -22,19 +26,19 @@ Press the button and, calculus will be made for you.
 
 * Label : String 
 
-* Actif ( A ): Have a values
+* Actif ( A ): Have a value
 
-* Passif ( P ): Have a values
+* Passif ( P ): Have a value
 
-* Values: Can be a number (Real/Float) or _ [^4]  are both accepted
+* Value: Can be a number (Real/Float) or _ [^4]
 
-* Now value formats are checked (for A, P). An error is raised if format is not ok!
+* Now value formats are checked (for A, P). An error is raised if format is not ok (check the upper line, or examples just below)! :-)
 
 Watchout to the GOLDEN RULE:
 
-> A vs P  if Actif as a value Passif MUST NOT (_ or 0) it sis one or the other.
+> A vs P  if Actif has a value Passif MUST NOT (_ or 0)! It is one or the other (check the upper line, or examples just below).
 
-> P vs A  if Passif as a value Actif MUST NOT (_ or 0) it sis one or the other.
+> P vs A  if Passif has a value Actif MUST NOT (_ or 0)! It is one or the other (check the upper line, or examples just below).
 
 > These rules are not implemented yet.
 
@@ -68,8 +72,8 @@ End Sub
 [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/C4200ZAJuM0)
 
 [^1]: Version 7.4.2.3 check for latest news [^6]
-[^2]: [Manual](https://help.libreoffice.org/7.4/en-US/text/sbasic/shared/vbasupport.html?&DbPAR=SHARED&System=MAC) for writing VBA scripts
+[^2]: [Help](https://help.libreoffice.org/7.4/en-US/text/sbasic/shared/vbasupport.html?&DbPAR=SHARED&System=MAC) for writing scripts and, a [sheet cheat](https://documentation.libreoffice.org/assets/Uploads/Documentation/en/MACROS/RefCards/LibOBasic-3-Calc-Flat-A4-EN-v111.pdf)
 [^3]: Format not specified yet
 [^4]: _ [^5] is like 0 value
 [^5]: _ must be alone
-[^6]: Latest [news](https://wiki.documentfoundation.org/Main_Page) for OO and VBA!
+[^6]: Latest [news](https://wiki.documentfoundation.org/Main_Page)!
