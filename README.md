@@ -66,9 +66,7 @@ Sub Calc()
 	MaSomme("Sheet1","My sum","Sums")
 End Sub
 ```
-<!--
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/C4200ZAJuM0)
--->
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/6B-8vRQbbXQ)
 
 [^1]: Version 7.4.2.3 check for latest news [^6]
 [^2]: [Help](https://help.libreoffice.org/7.4/en-US/text/sbasic/shared/vbasupport.html?&DbPAR=SHARED&System=MAC) for writing scripts and, a [sheet cheat](https://documentation.libreoffice.org/assets/Uploads/Documentation/en/MACROS/RefCards/LibOBasic-3-Calc-Flat-A4-EN-v111.pdf)
