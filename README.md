@@ -62,9 +62,9 @@ Select Module and choose Calc()
 ```
 REM Sum within one sheet
 Sub CalcSheet(mySheet 	as String)
-	MaSomme mySheet,"Asset","Asset sum" 			REM Calculus Column named Asset
-	MaSomme mySheet,"Passive","Passive sum"			REM Calculus Column named Passive
-	MaSomme mySheet,"My sum","Sums"					REM Calculus Column named Asset - Passive
+	MaSomme mySheet,"Asset","Asset sum" 		REM Calculus Column named Asset
+	MaSomme mySheet,"Passive","Passive sum"		REM Calculus Column named Passive
+	MaSomme mySheet,"My sum","Sums"	        	REM Calculus Column named Asset - Passive
 End Sub
 
 REM Start summup with one sheet
