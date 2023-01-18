@@ -72,7 +72,7 @@ Sub Calc()
 	CalcSheet("Sheet1")
 End Sub
 ```
-[![Everything Is AWESOME](https://i.imgur.com/6b2jN5c.jpeg)](https://youtu.be/BcDxbIWh6qo)
+[![Everything Is AWESOME](https://i.imgur.com/gqtmkdm.png)](https://youtu.be/BcDxbIWh6qo)
 
 [^1]: Version 7.4.2.3 check for latest news [^6]
 [^2]: [Help](https://help.libreoffice.org/7.4/en-US/text/sbasic/shared/vbasupport.html?&DbPAR=SHARED&System=MAC) for writing scripts and, a [sheet cheat](https://documentation.libreoffice.org/assets/Uploads/Documentation/en/MACROS/RefCards/LibOBasic-3-Calc-Flat-A4-EN-v111.pdf)
