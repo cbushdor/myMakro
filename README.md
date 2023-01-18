@@ -53,20 +53,26 @@ Watchout to the GOLDEN RULE:
 
 
 # Improve macro
-Tools > Macro > Edit Macros
+Tools > Organize Macros > Basic > Edit Macros
 
-Go in Object catalog then choose CalcTest2.ods
+Menu Macro From > CalcTest2.ods > Standard > CalcSheet > Calc
 
 Select Module and choose Calc()
 
 ```
+REM Sum within one sheet
+Sub CalcSheet(mySheet 	as String)
+	MaSomme mySheet,"Asset","Asset sum" 			REM Calculus Column named Asset
+	MaSomme mySheet,"Passive","Passive sum"			REM Calculus Column named Passive
+	MaSomme mySheet,"My sum","Sums"					REM Calculus Column named Asset - Passive
+End Sub
+
+REM Start summup with one sheet
 Sub Calc()
-	MaSomme("Sheet1","Asset","Asset sum")
-	MaSomme("Sheet1","Passive","Passive sum")
-	MaSomme("Sheet1","My sum","Sums")
+	CalcSheet("Sheet1")
 End Sub
 ```
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/6B-8vRQbbXQ)
+[![Everything Is AWESOME](https://i.imgur.com/Y3DVIlZ.png)](https://youtu.be/BcDxbIWh6qo)
 
 [^1]: Version 7.4.2.3 check for latest news [^6]
 [^2]: [Help](https://help.libreoffice.org/7.4/en-US/text/sbasic/shared/vbasupport.html?&DbPAR=SHARED&System=MAC) for writing scripts and, a [sheet cheat](https://documentation.libreoffice.org/assets/Uploads/Documentation/en/MACROS/RefCards/LibOBasic-3-Calc-Flat-A4-EN-v111.pdf)
